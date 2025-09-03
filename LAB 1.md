@@ -1,14 +1,13 @@
 <img width="1684" height="707" alt="image" src="https://github.com/user-attachments/assets/b46f26f8-4960-49ff-b8e5-b8a34ac165f4" /># Classwork-IS-24-22-Erzanov_Erzanat
 #LAB 1
-
-
-
-
-
-
-
-
-
+#"Написать на каждую арифметическую операцию по 1 примеру
+-- — вычитание
++ — сложения
+* — умножение
+** — возведение в степень
+/ — деление
+// — целочисленное деление
+% — остаток от деления"
 
 
 while True: 
