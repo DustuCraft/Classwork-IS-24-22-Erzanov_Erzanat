@@ -1,5 +1,5 @@
 <img width="1684" height="707" alt="image" src="https://github.com/user-attachments/assets/b46f26f8-4960-49ff-b8e5-b8a34ac165f4" />
-#LAB 1
+#LAB 2
 
 while True: 
     num1 = float(input("Первое число >")) 
