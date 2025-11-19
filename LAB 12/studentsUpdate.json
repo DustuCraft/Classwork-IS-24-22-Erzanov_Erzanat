@@ -1,0 +1,83 @@
+[
+    {
+        "timestamp": "2025-11-19 13:40:33",
+        "student_name": "Ержан",
+        "field": "deleted",
+        "old_value": {
+            "group": "IS-24-22",
+            "gpa": 3.4
+        },
+        "new_value": null
+    },
+    {
+        "timestamp": "2025-11-19 13:40:39",
+        "student_name": "Сахи",
+        "field": "deleted",
+        "old_value": {
+            "group": "IS-24-22",
+            "gpa": 3.2
+        },
+        "new_value": null
+    },
+    {
+        "timestamp": "2025-11-19 13:40:42",
+        "student_name": "Абзал",
+        "field": "deleted",
+        "old_value": {
+            "group": "IS-24-22",
+            "gpa": 1.9
+        },
+        "new_value": null
+    },
+    {
+        "timestamp": "2025-11-19 13:41:11",
+        "student_name": "Ержан",
+        "field": "deleted",
+        "old_value": {
+            "group": "IS-24-22",
+            "gpa": 3.8
+        },
+        "new_value": null
+    },
+    {
+        "timestamp": "2025-11-19 13:41:13",
+        "student_name": "Абзал",
+        "field": "deleted",
+        "old_value": {
+            "group": "IS-24-22",
+            "gpa": 3.0
+        },
+        "new_value": null
+    },
+    {
+        "timestamp": "2025-11-19 13:41:15",
+        "student_name": "Сахи",
+        "field": "deleted",
+        "old_value": {
+            "group": "IS-24-22",
+            "gpa": 3.2
+        },
+        "new_value": null
+    },
+    {
+        "timestamp": "2025-11-19 13:42:16",
+        "student_name": "Абзал",
+        "field": "gpa",
+        "old_value": 1.9,
+        "new_value": 2.9
+    },
+    {
+        "timestamp": "2025-11-19 13:42:24",
+        "student_name": "Ержан",
+        "field": "gpa",
+        "old_value": 3.2,
+        "new_value": 3.8
+    },
+    {
+        "timestamp": "2025-11-19 13:42:35",
+        "student_name": "Сахи",
+        "field": "gpa",
+        "old_value": 3.0,
+        "new_value": 3.4
+    }
+]
